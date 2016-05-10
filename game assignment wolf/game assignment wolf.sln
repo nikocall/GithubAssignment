@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game assignment wolf.CSharp.Plugins", "game assignment wolf.CSharp.Plugins.csproj", "{B3E02BC2-4FB6-DB3B-4927-3569826BC672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game assignment wolf.CSharp", "game assignment wolf.CSharp.csproj", "{2EC20D44-DD06-E739-AA0D-7111A853DF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game assignment wolf.CSharp.Editor", "game assignment wolf.CSharp.Editor.csproj", "{2033C50B-3523-D377-6570-68A74099B6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E02BC2-4FB6-DB3B-4927-3569826BC672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E02BC2-4FB6-DB3B-4927-3569826BC672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E02BC2-4FB6-DB3B-4927-3569826BC672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E02BC2-4FB6-DB3B-4927-3569826BC672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC20D44-DD06-E739-AA0D-7111A853DF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC20D44-DD06-E739-AA0D-7111A853DF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC20D44-DD06-E739-AA0D-7111A853DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC20D44-DD06-E739-AA0D-7111A853DF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2033C50B-3523-D377-6570-68A74099B6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2033C50B-3523-D377-6570-68A74099B6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2033C50B-3523-D377-6570-68A74099B6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2033C50B-3523-D377-6570-68A74099B6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
