@@ -69,6 +69,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\anim.cs" />
     <Compile Include="Assets\buttonanin.cs" />
     <Compile Include="Assets\exitb.cs" />
     <Compile Include="Assets\scoresc.cs" />
